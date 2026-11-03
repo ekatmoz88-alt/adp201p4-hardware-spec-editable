@@ -28,7 +28,7 @@ ADP201P4 is a PCI-based signal-processing module built around four Analog Device
 
 ## Editing and write access
 
-This is the editable working copy of the ADP201P4 documentation. The repository owner and collaborators with **Write** or higher repository access can add files, edit existing files, commit changes, and replace file contents. The connected GitHub integration has been tested by creating this repository's initial commit; subsequent file updates use the current file SHA to replace content safely.
+This is the independently maintained editable working copy of the ADP201P4 documentation. The repository owner and collaborators with **Write** or higher repository access can add files, edit existing files, commit changes, and replace file contents. The connected GitHub integration has been tested by creating this repository's initial commit; subsequent file updates use the current file SHA to replace content safely.
 
 ## GitHub Pages
 
